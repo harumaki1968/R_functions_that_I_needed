@@ -1,4 +1,4 @@
-# R_functions_I_needed
+# R_functions_that_I_needed
 
 This repository has saved R functions that I needed and made it.
 
